@@ -1,7 +1,7 @@
-export default function Home() {
+export default function Records() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      Transcriptor
+      Records
     </main>
-  );
+  )
 }
